@@ -1,0 +1,8 @@
+{
+  "name": "Aproscello Manager (Version a Visualizar)",
+  "description": "Comprehensive agricultural management system for Aproscello, integrating producer financing, technical visits with AI diagnostics, and seed certification workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
